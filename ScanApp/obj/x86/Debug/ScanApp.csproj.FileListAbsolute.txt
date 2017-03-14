@@ -1,0 +1,14 @@
+D:\WORKDIR\WPF\ScanApp\ScanApp\bin\Debug\ScanApp.exe
+D:\WORKDIR\WPF\ScanApp\ScanApp\bin\Debug\ScanApp.pdb
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\MainWindow.baml
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\MainWindow.g.cs
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\App.g.cs
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp_MarkupCompile.cache
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp.g.resources
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp.Properties.Resources.resources
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp.csproj.GenerateResource.Cache
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp.exe
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp.pdb
+D:\WORKDIR\WPF\ScanApp\ScanApp\bin\Debug\WPFToolkit.dll
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp.csprojResolveAssemblyReference.cache
+D:\WORKDIR\WPF\ScanApp\ScanApp\obj\x86\Debug\ScanApp_MarkupCompile.lref
